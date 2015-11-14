@@ -1,0 +1,327 @@
+MONDAY 24 AUGUST 2015
+
+First day of classes 
+
+In a way, I'm trying to bash architecture. But in the process, I may learn more about it and be able to appreciate it more. 
+
+Code in the DNA of the building
+
+Begin with a wall?
+
+Make a full set of CD's
+
+
+TUESDAY 25 AUGUST 2015 2:54PM 
+
+Henri de Hahn Meeting
+ 
+Computer science is 10 years ahead while architecture is 10 years behind.
+
+What's the argument?
+
+What are the problems?
+
+What's the objective?
+(what do I want to achieve?)
+
+What methodology will I use?
+
+How do I communicate this?
+
+
+If something does not yet exist, design things as if that particular thing already exists. 
+<Your work then becomes a catalyst to help bring about that thing sooner. 
+If you make code part of the dna, it could incite material/construction changes which are more difficult/time consuming for people. Since I'm really interested in having robots do construction, I would anticipate that designing things that robots do more easily than humans would create a greater need for robots in construction.> 
+
+Like, how will the insertion of this technology be protected from the elements? how will it change the way details are made? 
+
+Goodwin Hall (the new engineering building) is apparently covered in sensors and able to give feedback about building performance, but I want to know where to get the info and I want to see how it was done. 
+
+I could 3D print circuits onto building materials!!!
+
+WEDNESDAY 26 AUGUST 2015 12:35PM
+
+How do you combine a field that focuses on 50 year permanence with a field with things which are out of date every 3 years?
+<My discussion with Paul Sonifrank (aka Pall Wall aka Lief) really helped me question my thesis. Apparently there's a building with a speaker system that's built with the architecture. It has one of the best sound qualities even though it's from the 70's. That's when I realized that the speakers were part of the design. The accoustics and everything were taken into consideration. So of course it's perfect. It's not like our hearing has evolved. So it will always work. That is, if the hardware doesn't give out from pure old age. But I guess that's true of anything.> 
+
+Simply having plans and sections and other drawings isn't enough to convey a truthful image of the place you want to build. Virtual reality places you there in the actual space. The advancements in 3D audio recording and 360 film have allowed us to create a more accurate image of what does not yet exist.  
+
+<Today functional problems are becoming less simple all the time. But designers rarely confess their inability to solve them. Instead, when a designer does not understand a problem clearly enough to find the order it really calls for, he falls back on some arbitrarily chosen formal order. The problem, because of its complexity, remains unsolved. -Notes on the Synthesis of Form by Christopher Alexander pg. 1>
+
+<The designer's attempt is hardly random as the
+child's is; but the difficulties are the same. His chances of success are small because the number of factors which must fall simultaneously into place is so enormous. -Notes on the Synthesis of Form by Christopher Alexander pg. 59>
+
+This building obviously needs a brain of some sort. So I could play with the computer aspect first then have the architecture branch out of it. Maybe some work with the Intel Edison and Sensor kit is necessary.
+
+I'd love to have dynamic architecture too. But we'll see.
+
+Remember: the best interface is no interface.
+
+I may have to start with a computer and work up to a building program from there... See what I can program, then shape a building program around it. This methodology makes sense though. With the way technology is progressing, what we make is going to have to consider what Computer Science has already brought into the world. 
+
+Really consider replaceability. 
+
+I liked the guys at ICFF who had actual panels you could touch and interact with  so it looked like the wall tile was a giant computer screen.
+
+THURSDAY 27 AUGUST 2015 9:56PM
+
+Objective/What I hope to accomplish:
+Keep architecture relevant.
+People are already looking at their phones and computer screens more than their surroundings. 
+With virtual reality, people are finally looking up, but at an ideal creation not of this world.
+
+Proposing technology as a building material - not a gadget.
+
+What if you died in the building I design? The architecture has to be good because it'll be the last thing you see...
+
+How do I handle waterproofing? Water is the arch nemesis of technology.
+
+The fireplace as the center of the house has been replaced by the television. Old is being replaced by the new. I need to find other domestic items being replaced by technology to help defend the need to consider technology as part of architecture. 
+
+I could integrate technology in a way that gives feedback on building performance and responds to inhabitants. But that's been done many times. Designing it into the infrastructure in an artful way makes it architecture.
+
+I could turn it into an aesthetic like they did in the industrial revolution era. 
+
+How do I place the technology? What's it's position in the space?
+
+1. Thesis statement
+2. Domestic examples
+3. Industrial aesthetic examples from history
+4. Computer aesthetic 
+5. Data
+
+The best interface is no interface.
+
+FRIDAY 28 AUGUST 2015 6:41AM
+
+If we don't start including technology into the architecture now, it will consume the architecture. By then, architects won't hardly have a say in anything. 
+
+2:43PM
+Plans and sections are practical for construction purposes, but in terms of showing what it will look like upon completion, it's inaccurate. We don't experience places in plan and we don't have xray vision to see and experience a place in section.
+
+What if you could begin visualizing what an expansion to the existing infrastructure looks and feels like before it's built? By dropping in default forms? Like the Hololens?
+
+How can I incorporate the Prison Architect game realm? The interconnectivity of all the aspects of design, management, and construction is amazing.
+
+I have a feeling this building will have to be very hyper-specific in order to incorporate more data.
+
+Of course I should always keep in mind that this place should still work without the technology in case of a nuclear war.
+
+Room in a Garden. 
+Lots of rooms scattered around the property but are all connected to the central server at the main cabin. Like a web with the brain at the center. 
+
+SATURDAY 29 AUGUST 2015 12:45PM
+
+House as Computer for Living.
+I want to build a building that acts like a computer.
+One brain with everything controlled from that center.
+
+MONDAY 31 AUGUST 2015 4:45PM
+
+My site is on a creek. It's next to water that keeps flowing and changing. How will this building respond to that?
+
+There's a visual language that exists long after the physical representation for it is gone. For example, Microsoft word still uses a floppy disk as the "save" symbol even though those objects are nearly obsolete. It's what we all recognize as the symbol for saving our work. Even the younger generation knows even though most of them have never even seen a floppy disk in real life. 
+
+So what if there were various symbols around this house that follow the unspoken visual language that could be interacted with? It would be like 3D UX/UI!!!!
+
+Omg how hilarious would it be if all this technology study brought me straight back to old school architecture....
+
+Okay, so I have a site drawing in the making. The plan is to stay till it's done, but that doesn't look like it's going to be the case. I'm way too tired of sitting. 
+
+IRobot is a great supplement. It brings psychology into the mix of technology. 
+
+I think too many people forget that the technology they are afraid of is made by humans. Perhaps they'd warm up to it if the technology was presented in that way. I need to keep that in mind while I design. 
+
+You know, if I really make an effort to break down this project into a series of mindless tasks, I could get so much more done.
+
+I realized today that technology is already eating the architecture from the inside out. And from the outside in! I could make a cool graphic representing the circuits and wires coming up and clutching onto buildings like vines. Ugh, it's so beautiful to imagine. I really want to work on producing that image.  
+I'm not sure if I should take existing buildings and photoshop the technology on or if I should go ahead and design my building and photoshop the technology onto it. This would make a great task for the VSAIA competition.  Gosh, the image is so powerful. It's making me quite emotional. 
+
+5:39PM
+
+She talked about when we had to craft a work of play using one standard sheet of Bristol board. She said she loved how I took this otherwise lifeless object, brought it outside, and played with it and gave it life, and brought other people into the mix and made new friends in the process. 
+
+THURSDAY  17 SEPTEMBER 2015 11:43PM
+
+I'm going to start building different mounts for the arduino with a good cable organization system. Then from there I can start drawing that in relationship to a full wall section. Then I can build out from the wall until I have a building.
+
+Now that I have access (supposedly) to a 3D printer, I can 3D print the parts that are more closely connected to the computer, then build the rest in metal and wood and acryllic. 
+
+Technology is humanity's skin. So if I can succeed in making technology a building skin, then perhaps man can truly become one with the building. 
+
+I found the AutoCAD drawings online for the Intel Edison and Arduino Explansion Board tooday in studio. I'm going to use that to start creating 3D printing files so I can make awesome containers. That will be my weekend assignment. I should be ready to print Monday.
+
+I like how this is going to be totally honest. I like starting at the scale of the hand then working up to the scale of the building. It makes way more sense. I think the outcome will be much more intimate and rich. It won't get out of control either. I'm looking forward to working with coupling the technology with wood. That should look really nice.
+
+SUNDAY  20 SEPTEMBER 2015 8:05PM
+
+I just had a brilliant idea. This building I'm making can have a brewery!!! Like a brewing station really. If this place is an escape, it would be sweet to have a special brew chilling there.
+
+11:40PM
+I forgot to mention that the brewing station idea was inspired by the fact that there are some example projects for this online, and while I was at Hack Manhattan over the summer, I saw that they had a tablet set up that was monitoring the progression of the fermentation. It was pretty sweet.
+
+TUESDAY 22 SEPTEMBER 2015 1:22PM
+
+I'm currently in the midst of 3D printing attempt #3. The first one failed due to temperature and speed settings. The second one failed due to design flaws. I realized that I didn't need so much material and I didn't need to spread it out so much. So I made a better iteration that is currently printing. It's more skeletal in nature. No excess. I'm starting to realize that with 3D printing, you really don't want excess. It's harder to clean up afterwards.Odds are, that print will take all day. So what do I do next? Well, I have a software design program due today before midnight. And I have a structures take-home test due first thing in the morning. I'll do those. Hopefully I'll have an epiphany as to how to proceed with my thesis. I still havent diagrammed the roadmap that was made during my advisor meeting. I have my own mental roadmap that needs formal diagramming as well.
+
+THURSDAY 24 SEPTEMBER 2015 7:39AM
+"My house and I sitting and observing the water"
+Perhaps the next image will be that? I imagine a piece of the house that comes out and forms a bench. The inhabitant sitting and watching the water. In the air, you see the calculations from the home that relate to the water. 
+
+9:34PM
+Things to drive the design (inspired by Open Compute at Goldman Sachs)
+Scalably Hardware
+Deployed in multiple nodes at a time
+Cost efficient
+Maintaned
+Designed around its life cycle
+Because the pace of innovation is so fast
+Risk and pricing calculations
+Virtualized Desktop Environment - separate the functioning from the display
+Cloud environment (internal cloud and hybrid public cloud)
+
+If we don't evolve, we'll ever be able to compete and we'll never be able to be leaders in the market.
+My thesis tackles evolution from the technological standpoint. Since humanity has decided to take charge of its on evolution via technology, it only makes sense that our environment would do the same if it is to continue providing for us in the way that we need it to in accordance to our also evolving needs and desires.
+
+
+I noticed that the hexagon opening is a common screen for ventilation in computers (and circles)
+
+FRIDAY 25 SEPTEMBER 2015 1:40PM
+
+My thesis professor disagrees with my belief that computer science is 10 years ahead and architecture is 10 years behind. This is good. I can base my improvement on his gradual acceptance of my observation. If I can turn  a nonbeliever into a believer, then I have accomplished my goal. 
+
+MONDAY 28 SEPTEMBER 2015 10:13PM	
+
+I had to present my work to the class today. It wasn't super great. But it made me consider the way I'd present my initial concept graphic. It represents my current progress in this investigation but it also represents the current status of the relationship between architecture and technology. The concept graphic is dark and ominous. The technology is consuming the architecture from the inside out and from the outside in. It's as if the technology is an invasive vine that's latching onto the architecture. Therefore, the architecture needs to evolve to handle the growth of technology in a symbiotic way. I hope for the next concept graphic to become brighter and more welcoming. I want it to show a dialogue between technology and architecture and the human all at the same time. That's why the bench in front of the water is so important. I will absolutely prioritize that image after my concrete wall is built. I also cannot forget about creating my library of code. I need to start creating code I can demo. The temperature sensor was pretty sweet. It produced readable data. I should also test out the light sensor. That's exactly what I'll test next to see what the data output looks like and how sensitive it is to the change in light as well as how accurate it is.
+On a side note, my professor is not the slightest bit happy with my entire demeanour towards the collective classroom thing. I don't like pin-ups so I don't go. I don't pay attention if I do go. I don't go to the lectures because they interfere with my other classes. He may not like it, but I need to keep my priorities straight. Architecture is not at the center. Lol, and the financial data is out there to prove it. He's been in academia too long. But you know, he's still okay. He helps me gauge whether or not my work is actually of any real value as it stands. 
+
+10:34PM
+
+Putting technology first has had to make me consider all aspects of design right away: Lighting, Thermal Comfort, Ventilation, etc. because technology has its hand in every single one of these things. Wow. 
+
+WEDNESDAY 30 SEPTEMBER 2015 7:21PM
+
+You know, VR is actually pretty cool. I think I could enter the adult world via a vr path. I think as an architecture major I'd have something to offer. If we value good spaces in reality, I think we'd also value good spaces in the virtual world as well.
+VR is currently limited in scope because of the fact that it is only usable within the computer's range. Room scale is possible, but not at the consumer level because of the sensors you'd need to install everywhere. Also, computing power is limited. It's hard to run these things on laptops. You'd need a high powered desktop. With this in mind, we can make buildings that are compatible with these technologies.  Why limit the technologies we love because of how backwards architecture is?
+
+10:15PM
+
+It turns out that one modern form of torture practiced in Iran is called white torture:
+"his cells had no windows, and the walls and his clothes were white. His meals consisted of white rice on white plates. To use the toilet, he had to put a white piece of paper under the door. He was forbidden to speak, and the guards reportedly wore shoes that muffled sound."
+When I found out about this, I thought about how in architecture, professors favor all-white models and minimal projects. Those which lack any sensory stimuli. Haha, that's probably why Rengin is mad crazy. Her house is all white. It's ridiculous.
+
+SUNDAY 04 OCTOBER 2015 10:05PM
+Oh My Goodness!
+I could have an interior screen! One that looks like all those wacky screens that are placed outside buildings for sun shading! Except this one will be an interior finish that acts as a screen to mediate the appearance of the electrical and mechanical! Woo!!!! It came to me because I was beginning to model the base shield for the Edison. From there, I'd start designing the next 3D printed container for that. However, I realized that I wanted to keep it as open as possible so as to have access to the wires, but I also wanted it to be contained enough so as to protect the hardware. Then the screen idea came to me. I just had to write it down. It seems my thesis could take on a very interesting formal quality. I've got to get to work on this. I need to have this 3D printed before this week ends. That means I need to complete this wall pour tomorrow and the next day. Ugh, I feel like my thoughts are coming to me faster than I can physically manifest them. I guess that's a good problem to have...for now. 
+Anyways, this screen could also bleed into a screen (or be the screen) for protecting the hardware from the elements of nature.
+
+MONDAY 05 OCTOBER 2015 9:40PM
+
+Alright, so I just thought of a way to describe this in a "conventional architecture" way. Here it goes: This thesis explores starting at the scale of the hand. What are the inhabitants primarily interacting with in this building? So I began with that and started building around it. That way, everything I made stemmed from the primary object of attention. 
+
+I think an explanation along those lines ought to somewhat appease those professors who would rather hear something super esoteric and philosophical.  
+
+10:19PM
+
+I'm starting to notice that those things that are within are also without. What I mean is that even though something is embedded in another object, part of it is still visible. Which is exactly what I'm trying to do with the electrical. 
+
+11:01PM
+
+The idea is to design as if technology is already totally laced into every aspect of our lives and every bit of our surrounding infrustracture. Obviously the cable and power supply are going to be touch to deal with, but I can problem solve for those now to make it look really good. When people look at how awesome the result is, they'll want to try it. However, when realizing how difficult it is, they'll hopefully alter the technology to fit the architecture. That's the point of this thesis really. Figuring out how to use architecture to push technology to new places faster. It's a feedback loop. So as technology progresses, it allows the architecture to progress as well. They can evolve together instead of the way it’s currently going where one evolves rapidly and leaves the other in the dust. That's why it is so important to consider it in designs. 
+
+WEDNESDAY 07 OCTOBER 2015 9:29PM
+
+Space ships could absolutely benefit from my thesis. Those are dwellings because of the fact that astonauts must live there for a long time because of the length of their journeys. Secondly, the technology is of utmost importance. Which means it must be easily accessible. Architectural principles of good dwelling places are important for the quality of life of the astronaut. However, that should not mean sacrificing the functionality.
+2015.10.22.EDIT:
+So I learned that those architects who are contracted to help with the designs are heavily restricted because of the engineering needs, but in what way? To the average architect, these restrictions would turn them off completely, but since I’m a “designer” who is incredibly inspired by technology, perhaps I would thrive on these restrictions. Is an architect who designs with technology at the forefront essentially like one who designs cars and other technology products? 
+
+TUESDAY 13 OCTOBER 2015 8:23AM
+
+I watched a mini documentary about Google and how it all began. What struck me was the fact that so many people were attacking it every chance they could. Specifically companies were losing customers to Googles products and they accused Google of undermining their traditional methods of making money. For example, with Youtube, television companies were not happy. Google had taken the supplying of videos/movies out of the hands of large television companies and put it into the hands of the people. Now, the large amount of Youtube series has made watching television series nearly irrelevant. After Google News was targeted by the print businesses saying that Google had destroyed their ad business and plummetted their circulation revenues. Google started making things more available to the people 
+
+WEDNESDAY 14 OCTOBER 2015 8:51PM
+
+What if I pitched this project as a house that becomes artificial intelligence. Like, one of the main characteristics of architecture is its longevity. Much can be learned over a period of time. Buildings are fairly constant. People are constantly moving in and out. Each building can be considered entities which watch over those who pass within. With that data, conclusions can be drawn. Conclusions relating to cost, social behavior, the environment, etc. 
+
+11:42PM
+
+Buildings as guardians
+Buildings as autonomous beings.
+It's really fascinating to think about what the results of these  sorts of studies can be. 
+
+11:48PM
+
+The more I start building a form out from the computer, it looks more and more like a cathedral. I don't know if I should continue down the path I'm going or if I should try other formal experiements. Like, I think that's part of why I like my thesis so much. I have no idea what it will become.
+
+THURSDAY 15 OCTOBER 12:23AM
+
+I've noticed that my architectural forms are growing from my electrical wall section in the same way that my 3D printed forms are growing from my computer. I may be on to something. But if this continues, there will absolutely be a visual continuity between my electrical wall section and the entirety of the building. This will serve as something to further validate my studies. 
+
+12:30AM
+
+I also think there is something to be said about juxtaposition. The structure is very obviously rectilinear, while the things that spawn from it are very organic and curvilinear. In the same way, we can compare this to the relationship between the architecture and the computer science in this building. The architecture handles the static, while the computer science handles the dynamic. 
+
+8:09AM
+
+Since homes built like these will produce a lot of data, and since data mining is on the rise, homes will become like individual mines from which data scientists can compile and analyze data. Their conclusions can then become a new driving force in design. As a result, our design desicions can be based more on fact. Also, if mining building data is valuable, more buildings will be built with the intention of being data mined.  
+
+12:35PM 
+
+I think the next concept graphic will be on a larger scale. It will show many buildings with data as wings slouched over and protecting the people. Perhaps it will also show connections arching between the buildings themselves. Communicating with each other. How great would it be if the buildings were like trees in a forest. A network that knew everything about each other. Since technology has already mastered interconnectivity, it only makes sense to pass this down into our infrastructure.
+
+7:30PM
+
+What if my thesis book is written using the structure of my timeline? I think that will due. It's way easy. Besides, I have kept a good chronological record of everything thusfar. Yeah, that's it. I'm going to do a chronological order type of book. It will begin with the history research, then show my thesis work, then show my projected ideas for the future. Nailed it... I could maybe even include my "pre-thesis" thoughts as well. And if I want to be really snarky about it, I could include a translation version. One that talks about all the esoteric philosophical architecture stuff that professors love so much. How would I categorize them? "Rational thought" and "Architect's thought"? I don't know... maybe something a bit more professional sounding. "Computer Scientist" and "Architect". Those are the two languages. If I have the time, it would be cool to write it like that.  
+
+SATURDAY 17 OCTOBER 2015 9:48PM
+
+I don't know if I've mentioned this before, but simply having a site like the one I have makes a bold statement. A technology charged building in the mountains beside a creek is pretty intense. However, by having this located where it is, it helps me keep in mind that the building must blend well with the environment. It must not pose a threat to nature. Also, it must look subtle. Not only should it not be a physical harm to nature, but it must not be visibly combating nature. Finally, it poses a challenge for me to make sure that I create a totally sealed building that will protect the technology from the elements. 
+
+TUESDAY 20 OCTOBER 2015 8:58PM
+
+If I had unlimited time and resources, I would make a building that was alive. Like IRobot, but for architecture. Buildings, once built, are expected to be there for 100 years. So many people pass through them and so many things happen around them in that time. If they could receive this information and process it and learn from it, they would be the wisest creations on earth.
+
+FRIDAY 23 OCTOBER 2015 4:32PM
+
+I posted a question on Quora asking why architecture looks to be so behind. And one guy answered really well. He said that It depends on how I'm looking at it. We have buildings like the burj khalifa that are made of glass, and are incredibly tall, and can fight off the climate conditions. He listed these traits which speak to our triumph over nature and suddenly I had a greater appreciation for the field. However, the same can be said for computer science. The power of computer science allows us to be everywhere at once. We have transcended the limitations of our voice. When we speak, only those in the room can hear. When we speak through technology, people all over the world can hear in real time. Technology enters into our bodies and operate on a biological playing field. Pace makers are a good example. So while I'm a lot less skeptical about architecture, I'd say the skepticism is now redirected towards architecture education. 
+
+WEDNESDAY 28 OCTOBER 2015 8:53AM
+
+I had a dream about my thesis last night. It was actually incredibly helpful. I had built a full scale room out of wood, concrete and stone. I had regular rectangular windows, and after some critique from my peers, I decided to make the windows like the archways here on campus. I had door openings that were very organic in shape. There was hokie stone on the  outside, but not lined up row by row. It was like hokie stone was an aggregate (a very large aggregate) for the cement. The whole building, inside and out, had wood accents (the front door and the area immediately around it for example). Before I woke up, there was the issue of the roof. It was flat. Only a thin concrete slab was there. Second, there was the fact that I needed to incorporate my wall section into the mix. There was a thought that it could be incorporated into the window assembly. With that, perhaps I should scrap the stair idea until further notice. I technically already have scrapped the stairs, but now I'm really going to have to remove them from the forefront and focus more on the other architectural elements. Another interesting detail was the fact that not all of the exterior wall had the hokie stone aggregate. The portion near the door was just a smoothed concrete pour, It was really awesome. It had that same characteristic of a house where only a third of it is covered in the invasive ivy species, but that one third is totally concentrated in one area, so it's almost as if that's the new exterior building material for that section. And the divide isn't a pure up and down separation. It was jagged and sloped like a mountain. There was a circular window inside as well. But I think that was what led us to the archway window idea.
+
+THURSDAY 29 OCTOBER 2015 6:45PM
+
+I'm currently watching a documentary called "How Will Nanotechnology Change the World?" and it's really incredible. It's talking about how simply changing a material can shirnk a technology significantly. First off it discussed the way computers use silicon. It is a major component in building materials that make up our homes and silicon is the basis of all current computer processors. Silicon is the basis of a computer transistor because it is a great semiconductor which allow transistors to be turned on and off at will. Now back to architectural usage: Silicon compounds are great because of their binding properties. It is one of the primary components of Portland cement (binder in concrete), it can be used to produce hardened ceramics, glass, and it can be used to make iron more resilient and less brittle. So perhaps there is a bridge between computer science and architecture that's much more literal that I thought. If silicon is used as a primary component in computer chips, and is a major component in building materials, couldn't the building DNA be "computerized"? Could a building be a large scale living computer processor that humans inhabit? I'm very fascinated with the idea that buildings could be built with the intention of being Computers via Materials Science and Engineering techniques to turn the Structures into a homogeneous mixture of Technology and Architecture. Perhaps then, wires wouldn't have to be dropped in wall cavities to connect things within the building. Or buildings could be able to communicate with each other the way computers do. Our built infrastructure could potentially mimic a forest in which all the trees are aware of the others. Or maybe I'm being too optimistic...It's possible to 3D print silicon, and I'm 3D printing most of my thesis. I think these are all pieces to the same puzzle.
+
+MONDAY 2 NOVEMBER 2015 07:28PM
+
+I've gotten back on a roll with studio stuff. I've got the second item in the 3D printer today. I feel really good about this. I've got to have a building by the first week of December. That's when we pin up in the lobby. I really want to get that second concept graphic completed, but I'll need more of a building designed in order to complete it. However, I really think I'm on to something. Now that I'm working on the panel which holds the sensors themselves, I've given myself clues as to how this wall will grow. I should be patient and stop being super anxious. I accomplished a lot these past few days. I've been applying for tech companies. About 4 so far. My goal is to become a software architect. Wouldn't that be sweet? To go from being an architect, to becoming a software architect? 
+
+TUESDAY 3 NOVEMBER 2015 10:37PM
+
+Where technology is, there you will find people.
+I don't think technology will slow down any time soon. This means architecture needs to start thinking and theorizing and designing right away with technology at the forefront. With my thesis being almost 30% 3D printed, this can start paving the way for robots in construction. The technology is already there for that to happen. We just haven't made architecture to allow that to happen on a large scale. Everything is there for architecture to make a leap, but our thinking has to change in order to take advantage of the technology. People are already out there 3D printing buildings and utilizing technology in construction, but it's such a small percentage of people. What would it take to make it mainstream? 
+
+WEDNESDAY 4 NOVEMBER 2015 10:14AM
+
+I'm not sure how to proceed. I think I need to start moving away from the scale of the hand and on to the scale of the site. I should find the views and start looking at how to place this thing. I need to talk to the professor who's most known for his hands on construction worker approach to architecture. I need to start getting drawings. I'm not sure how all of this will come together. LIterally. 
+
+10:46AM
+
+I just had an epiphany. Part of what makes things like architecture have such an expensive production costs are the cost of labor. It requires a ton of people. However, by designing a building whose parts can be created and assembled by robots, we eliminate some of the cost of labor. You can get a cooler building for a reasonable price. I'll have to prove this of course. I don't know if that kind of accuracy and research is within my scope, but at least I'm making a note of it now to prove that I am in fact thinking aobut these things. It's too practical to not give it any thought. 
+
+WEDNESDAY 11 NOVEMBER 2015 10:52PM
+
+Today was great. I went to Dane Webster's art exhibition. I ran into a close friend who introduced me to her mapping professor. I was invited to their class. We walked together (as a class) from the exhibition to the studio space in Henderson. We then proceeded to have an incredible talk about our work which then shifted into a conversation about transhumanism which then shifted into a conversation about graphic design which then shifted into a conversation about life in general. It was absolutely incredible and I can't wait to go back there on Monday night. So I can't quite put my finger on any particular concrete realization that I had while I was there, I just know that I got really motivated. I went back to my dorm and I started working. I'm finally getting somewhere with my second concept graphic showing the extroverted nature of my thesis and how filling architecture with technology doesn't automatically mean everyone will be a shut in. I realized that I was holding myself back by trying to do this through purely measurable means. What the concept graphics do is give me a mental image. I guess the measurable will come in increments but the graphics should just flow so that I know how to go about the measurable. Perhaps second semester it will be the other way around such that the measurable influences the concept graphics. Well, logically it has to. I need to have a finished product and that finished product needs to be visually represented, but I don't want my representation to be purely constructive. I also want the representation of the measurable to exude some other more esoteric meaning. Right now there is esoteric meaning, but no measurable aspect. This thesis is definitely growing organically but it's also kind of scary because I ask myself "is it growing fast enough?" and I don't want to look up and realize that it's already May and I'm still figuring out the measurable. This topic was loosely mentioned in the class today. The professor was talking about how school (to him) shouldn't be based on grades and a black and white criterion. He said we should foster passion and then see what output is brought about by that passion that the students have for whatever topic or field they are pursuing. Which is perfect in terms of the way I think. But I'm still concerned about whether or not that will get me a degree. I am concerned that I won't reach that final product within the span of time they want. Anyways, I'll continue working on this graphic, but I really do think I'll be able to complete it before the week ends. My caffeine intake is pretty insane right now too. It helps a lot though. I don't know how else I'd be able to stay focus without getting juiced up on caffiene. 
+
+THURSDAY 12 NOVEMBER 2015 12:41AM
+
+So this isn't particularly important, but I just realized that in these graphics where I want there to be equations and code present (for added effect) I want those to be my own. So I'm going to screen shot the code I've written. I'd prefer it to be code I've written for this specific project, but for now, I'll have to settle with showing code that I've written for hackathons. However, I did create a repository for my thesis ui. I haven't written the ui yet, but I just really wanted to get it set up yesterday. I realized that the project isn't quite developed enough to start making a ui. Wait, maybe I need to make a ui first in order to derive a building from it. Isn't that what my thesis is? Technology first, then the architecture?! Wow, okay this is something I'm going to have to fiddle with. I'll start writing a ui and see if it inspires any sort of formal architectural thoughts. Perhaps that may be best. If I create an overly ambitious architecture, I won't have the programming skills to make a ui that matches up to it. I need to see what kind of ui I can make with my current skills and build up an architecture around that. 
+
+12:52AM
+
+One habit I developed during my time here in college is I'll save a bunch of independent files that represent my process of creating something. I just went through my history for my first concept graphic. Instead of just saving copies of all the .psd files over the course of production, I also saved them as .jpg which means I can scroll through them and see the graphic morph into it's final form. You know what that means? if I screen shot all my project history files (or save them as .jpg) I can create gifs of them and then delete the history files. Besides, I'm tired of only having 3 to 4 gigs of free space on my laptop. I'll do it for the first concept graphic for now. But around the time when I decide to make moves towards producing a legitimate portfolio, I'll do it for my past projects as well. That should make for a solid contribution to my social media sites. 
+
+2:19AM
+
+So apparently the way my concept graphics are assembled, it's like I'm painting. I layer everything on top of each other and I hardly ever remove anything that I add. However, the composition is like that of a dream. Steven Universe described it pretty well. It's like images from your memories chopped up and jumlbed and then reassembled in a collage sort of way. That's what my concept graphics do. It take the precedents and the research I do and instead of presenting them independently, I present them all in the form of one image. My second thought that I believe my column assembly is supposed to be a buttress. But not an exterior one of course. It would be an interior buttress connecting to the wall. Then the space on either side of the buttress would be freed and open. I imagine that when I start to incorporate the arch vault stairs (I know I ditched it for now, but I really have an attachment to those that I can't quite explain), it would start to create a formal language. One that shows that the more important/functional moments of the architecture carry the weight (visually, but perhaps literally as well) and everything else dissolves away to reflect the minimizing relevance of architecture in and of itself. 

@@ -1,0 +1,21 @@
+EMPATHY
+-Import GIS and weather data in order to virtually build on the actual site and observe building performance.
+-First Person Shooter game walkthrough interaction with the structure.
+-Prison Architect construction to performance simulation.
+-VR and AR 
+-Choreograph (animate) construction process using robots.
+-Steam VR Submission:
+I am an architecture student at Virginia Tech whose goal for my thesis project is to use VR, game engines, and site data in tandem in order to do the following:
+
+1. Simulate climate conditions accurately in the game and understand the resulting building performance in terms of thermal comfort, drainage, daylighting, and ventilation.
+2. Using the game engine's ability to add NPC's, one can walk through a space as it is being used in its intended manner by the nonplayer characters. This allows for a more realistic experience of what the building will be like on an actual day.
+3. By combining real world data and running it through a game engine, the design and planning process for architects becomes quicker and more reliable. Results are immediately viewed and experienced by those working on the project. Thus, decisions can be made with confidence and potential disasters can be avoided. Money will be saved and contractors and clients will feel more confident about the project. 
+
+By doing so, potential clients and team members can better understand the design via empathy and accurate simulation data output because of the advanced immersive qualities of VR.
+
+Empathy rarely extends beyond our line of sight. In other words, "out of sight, out of mind." - Captains of Spaceship Earth - Shots of Awe
+
+ARCHITECTURE IS 10 YEARS BEHIND. COMPUTER SCIENCE IS 10 YEARS AHEAD.
+
+virtual reality is already here. Soon the surrounding world will be irrelevant. poeple already look down at their phones more than they look that at the physical infrastructure around them. how do we make the physical infrastructure relevant again?
+
